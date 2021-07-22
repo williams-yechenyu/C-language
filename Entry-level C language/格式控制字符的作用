@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main(){
+int a=88,b=89;
+printf("%d%d\n",a,b);
+printf("%d,%d\n",a,b);/*中间加入了逗号，非格式字符*/
+printf("a=%d,b=%d\n",a,b);
+printf("Value is:%10.3f\n",32.1234567);
+printf("Value is:%-10.3f",32.1234567);
+}
