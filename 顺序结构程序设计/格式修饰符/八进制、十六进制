@@ -1,0 +1,2 @@
+int a=11;
+printf("%d,%o,%4o,%x",a,a,a,a);
