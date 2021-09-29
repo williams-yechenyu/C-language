@@ -1,0 +1,2 @@
+float b=10.3;
+printf("%e",b);
