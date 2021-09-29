@@ -1,0 +1,12 @@
+#include <stdio.h>
+#define PI 3.1415926
+int main()
+{
+int r;float c,s;
+printf("请输入半径：");
+scanf("%d",&r);
+c=2*PI*r;
+s=PI*r*r;
+printf("周长为：%f\n",c);
+printf("面积为；%f\n",s);
+}
