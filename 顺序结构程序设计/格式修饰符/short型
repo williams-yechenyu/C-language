@@ -1,0 +1,2 @@
+short b=10;
+printf("%hd",b);
