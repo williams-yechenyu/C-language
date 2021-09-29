@@ -1,0 +1,8 @@
+#include <stdio.h>
+main()
+{
+int x,y=7;
+float z=4;
+x=(y=y+6,y/z);
+printf("x=%d\n",x);
+}
