@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+int c1;
+char c2;
+c1='a';
+c2=98;
+c1=c1-32;
+c2=c2-32;
+printf("%c,%c",c1,c2);
+}
