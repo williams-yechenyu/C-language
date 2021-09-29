@@ -1,0 +1,2 @@
+double b=10.3;
+printf("%f",b);
