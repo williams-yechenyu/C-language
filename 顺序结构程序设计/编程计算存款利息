@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+int a=10000,n=4;
+float c;
+double p=0.025,s;
+c=pow((1+p),n);
+s=a*c-a;
+printf("%f",s);
+}
